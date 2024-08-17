@@ -1,0 +1,51 @@
+ProductID,ProductGroupID,ProductName,Description,Price,StockQuantity,Manufacturer,WarrantyPeriod,SKU,Weight,Dimensions,ReleaseDate
+1,1,Laptop,"High-performance laptop for professionals",1500,50,ABC Electronics,2 years,LPT001,2.5 kg,14"" x 10"" x 1",2023-01-01
+2,1,Desktop,"Powerful desktop computer for gaming",2000,30,XYZ Computing,3 years,DT001,15 kg,20"" x 18"" x 8",2023-02-15
+3,2,Smartphone,"Latest smartphone with advanced camera",1000,100,PQR Mobile,1 year,SP001,0.5 kg,6"" x 3"" x 0.3",2023-03-10
+4,2,Tablet,"Lightweight tablet for entertainment and work",800,80,ABC Electronics,2 years,TB001,0.8 kg,10"" x 7"" x 0.4",2023-04-20
+5,3,Smart TV,"55-inch smart TV with 4K resolution",2500,20,XYZ Electronics,3 years,TV001,20 kg,55"" x 32"" x 5",2023-05-05
+6,3,Soundbar,"Premium soundbar for immersive audio experience",500,50,PQR Audio,1 year,SB001,3 kg,40"" x 3"" x 3",2023-06-15
+7,4,Refrigerator,"Energy-efficient refrigerator with smart features",3000,15,ABC Appliances,5 years,RF001,80 kg,70"" x 36"" x 30",2023-07-01
+8,4,Washing Machine,"Front-loading washing machine with multiple cycles",1500,25,XYZ Appliances,3 years,WM001,50 kg,40"" x 30"" x 28",2023-08-10
+9,5,Vacuum Cleaner,"Robust vacuum cleaner for deep cleaning",400,40,PQR Appliances,2 years,VC001,8 kg,15"" x 12"" x 10",2023-09-20
+10,5,Coffee Maker,"Automatic coffee maker with programmable settings",200,60,ABC Appliances,1 year,CM001,5 kg,10"" x 8"" x 12",2023-10-05
+11,1,Monitor,"27-inch monitor with high refresh rate",600,70,XYZ Computing,2 years,MON001,4 kg,27"" x 18"" x 6",2023-11-15
+12,2,Smartwatch,"Fitness-focused smartwatch with GPS",300,90,PQR Wearables,1 year,SW001,0.3 kg,2"" x 2"" x 0.5",2023-12-01
+13,3,Projector,"HD projector for home theater experience",1200,25,ABC Electronics,2 years,PROJ001,3 kg,12"" x 10"" x 5",2024-01-10
+14,4,Microwave,"Compact microwave oven with multiple presets",150,50,XYZ Appliances,1 year,MW001,15 kg,20"" x 15"" x 12",2024-02-20
+15,5,Blender,"High-speed blender for smoothies and soups",80,100,PQR Appliances,1 year,BL001,3 kg,12"" x 8"" x 6",2024-03-05
+16,1,Keyboard,"Mechanical gaming keyboard with RGB lighting",150,80,ABC Computing,2 years,KB001,1 kg,18"" x 8"" x 2",2024-04-15
+17,2,Mouse,"Wireless ergonomic mouse for productivity",80,120,XYZ Computing,1 year,MS001,0.2 kg,4"" x 3"" x 2",2024-05-01
+18,3,Router,"Dual-band Wi-Fi router for high-speed internet",100,150,PQR Networking,2 years,RT001,0.5 kg,8"" x 6"" x 2",2024-06-10
+19,4,Printer,"All-in-one printer for home and office use",200,60,ABC Printing,2 years,PR001,10 kg,18"" x 14"" x 10",2024-07-20
+20,5,Headphones,"Noise-canceling headphones for immersive audio",250,50,XYZ Audio,1 year,HP001,0.5 kg,8"" x 7"" x 3",2024-08-05
+21,1,Graphics Card,"High-performance graphics card for gaming",700,40,PQR Computing,3 years,GPU001,2 kg,12"" x 8"" x 3",2024-09-15
+22,2,External Hard Drive,"Portable external hard drive with large storage capacity",120,100,ABC Storage,2 years,EHD001,0.5 kg,6"" x 4"" x 1",2024-10-01
+23,3,Smart Speaker,"Voice-controlled smart speaker with virtual assistant",150,80,XYZ Audio,1 year,SS001,1 kg,5"" x 5"" x 5",2024-11-10
+24,4,Blu-ray Player,"4K Blu-ray player for high-definition entertainment",300,30,PQR Electronics,2 years,BP001,3 kg,15"" x 12"" x 3",2024-12-20
+25,5,Electric Toothbrush,"Advanced electric toothbrush for dental care",50,200,ABC Healthcare,1 year,ETB001,0.3 kg,10"" x 1"" x 1",2025-01-05
+26,1,Table Lamp,"Adjustable table lamp for reading and work",50,150,XYZ Lighting,1 year,TL001,2 kg,8"" x 8"" x 15",2025-02-15
+27,2,Desk Chair,"Ergonomic desk chair for comfortable seating",150,100,PQR Furniture,3 years,DC001,10 kg,24"" x 24"" x 40",2025-03-01
+28,3,Office Desk,"Modern office desk with ample storage",300,50,ABC Furniture,2 years,OD001,20 kg,60"" x 30"" x 30",2025-04-10
+29,4,Sofa,"Luxurious sofa for living room comfort",800,20,XYZ Furniture,5 years,SF001,50 kg,80"" x 40"" x 36",2025-05-20
+30,5,Dining Table,"Stylish dining table for family gatherings",400,30,PQR Furniture,3 years,DT001,40 kg,72"" x 36"" x 30",2025-06-05
+31,1,Smart Scale,"Bluetooth-enabled smart scale for health tracking",80,120,ABC Healthcare,1 year,SS001,1 kg,12"" x 12"" x 1",2025-07-15
+32,2,Air Purifier,"HEPA air purifier for clean indoor air",200,80,XYZ Appliances,2 years,AP001,5 kg,10"" x 10"" x 20",2025-08-01
+33,3,Hair Dryer,"Ionic hair dryer for quick drying and styling",50,200,PQR Appliances,1 year,HD001,1 kg,10"" x 5"" x 5",2025-09-10
+34,4,Car Vacuum Cleaner,"Portable vacuum cleaner for car interiors",100,50,ABC Automotive,1 year,VC001,3 kg,12"" x 6"" x 6",2025-10-20
+35,5,Robot Vacuum,"Automated robot vacuum for hands-free cleaning",300,30,XYZ Appliances,2 years,RV001,5 kg,14"" x 14"" x 4",2025-11-05
+36,1,Smart Thermostat,"Wi-Fi enabled smart thermostat for home climate control",150,100,PQR Home,2 years,ST001,0.5 kg,4"" x 4"" x 1",2025-12-15
+37,2,Security Camera,"HD security camera for home and business surveillance",200,50,ABC Security,3 years,SC001,1 kg,6"" x 6"" x 4",2026-01-01
+38,3,Video Doorbell,"Smart video doorbell with motion detection",150,80,XYZ Security,2 years,VD001,0.5 kg,4"" x 2"" x 1",2026-02-10
+39,4,Smart Lock,"Keyless entry smart lock with remote access",100,100,PQR Security,1 year,SL001,0.3 kg,3"" x 3"" x 1",2026-03-20
+40,5,Gaming Chair,"Comfortable gaming chair with ergonomic design",300,30,ABC Gaming,2 years,GC001,20 kg,30"" x 26"" x 50",2026-04-05
+41,1,Smart Refrigerator,"Smart refrigerator with touchscreen interface",3500,10,ABC Appliances,5 years,SR001,100 kg,70"" x 36"" x 30",2026-05-15
+42,2,Smartwatch,"Waterproof smartwatch with fitness tracking",200,50,XYZ Wearables,1 year,SW002,0.4 kg,2"" x 2"" x 0.5",2026-06-01
+43,3,Home Theater System,"Surround sound home theater system",800,15,PQR Audio,2 years,HT001,15 kg,20"" x 18"" x 8",2026-07-10
+44,4,Electric Scooter,"Foldable electric scooter for urban commuting",500,20,ABC Mobility,1 year,ES001,15 kg,40"" x 20"" x 10",2026-08-20
+45,5,Smart Mirror,"Interactive smart mirror with built-in apps",600,10,XYZ Electronics,2 years,SM001,8 kg,24"" x 36"" x 2",2026-09-05
+46,1,Portable Projector,"Compact portable projector for presentations",400,30,PQR Electronics,1 year,PP001,2 kg,10"" x 8"" x 4",2026-10-15
+47,2,Smart Home Hub,"Centralized smart home control hub",150,40,ABC Home,1 year,SH001,0.5 kg,6"" x 6"" x 2",2026-11-01
+48,3,Electric Bike,"Electric bike with long-range battery",1200,10,XYZ Mobility,3 years,EB001,25 kg,70"" x 40"" x 20",2026-12-10
+49,4,Home Security System,"Comprehensive home security system",1000,5,PQR Security,2 years,HSS001,3 kg,12"" x 12"" x 6",2027-01-20
+50,5,Robotic Lawn Mower,"Automated robotic lawn mower",700,8,ABC Lawn,2 years,RLM001,15 kg,24"" x 20"" x 10",2027-02-05
